@@ -286,3 +286,9 @@ git merge 123:   смерджим  123 ветку в master
 https://git-scm.com/book/ru/v2
 https://git-scm.com/downloads
 https://desktop.github.com/
+
+
+# ФУНКЦИИ
+def a_function():
+    print('fasfasfsfacacsasdasdds')
+    pass #- пустая операция  (заглушка для функции)
