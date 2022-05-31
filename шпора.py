@@ -292,3 +292,14 @@ https://desktop.github.com/
 def a_function():
     print('fasfasfsfacacsasdasdds')
     pass #- пустая операция  (заглушка для функции)
+
+def add(a, b):
+    return (a + b) # завершает работу функции и возвращает указанное значение в место вызова функции
+print(add(2, 3))
+
+def many(*args, **kwargs):
+    print(args)
+    print(kwargs)
+many(1, 2, 3, 5, 6, 4, 3, 2, 'yuuyggjhgjhgj', name='mike', job='programmer')
+
+    global  a # объявление а глобальной.Но нужно быть осторожным
