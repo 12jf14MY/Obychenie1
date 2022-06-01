@@ -303,3 +303,7 @@ def many(*args, **kwargs):
 many(1, 2, 3, 5, 6, 4, 3, 2, 'yuuyggjhgjhgj', name='mike', job='programmer')
 
     global  a # объявление а глобальной.Но нужно быть осторожным
+
+
+a = lambda x, y: x * y  # упрощенный вариант функции только для 1 инструкции, с if, for,while не работает
+print(a(2, 3))
