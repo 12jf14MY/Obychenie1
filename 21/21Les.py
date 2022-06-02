@@ -104,13 +104,47 @@
 #
 # fun(input('введите число  '))
 
-a=[]
-def many(*args, **kwargs):
-    print(args)
-    for in args:
-        print(args.index(i), '-', i)
-        if
-    print(kwargs)
+
+# def digits(n):
+#     i = 0
+#     while n > 0:
+#         n = n // 10
+#         i += 1
+#     return i
+#
+#
+# num = int(input('Введите число: '))
+# print('Количество разрядов:', digits(num))
 
 
-many(1, 2, 3, 5, 6, 4, 3, 2, 23, 'wre', '123', 'yuuy', name='mike', job='programmer', a=2, b=34, c='23fg', )
+def digits(n):
+    return len(str(n))
+
+
+num = int(input('Введите число: '))
+print('Количество разрядов:', digits(num))
+
+
+
+
+
+# a = []
+#
+#
+# def f(*args, **kwargs):
+#     for i in args:
+#         if args.index(i) % 2 != 0:
+#             print(args.index(i), '-', i)
+#             a.append(i)
+#     for value in kwargs.values():
+#         if type(value) is str:
+#             print(value)
+#             a.append(value)
+#     return a
+#
+# print(f(1, 2, 3, 4, n='Name', c='Belarus', num=123))
+
+
+
+
+
