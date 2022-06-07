@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="21_1_lesson_DZ">
-      <change afterPath="$PROJECT_DIR$/22/22les.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22/DZ22.py" afterDir="false" />
+    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="07,06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/19gitDZ2" beforeDir="false" afterPath="$PROJECT_DIR$/19gitDZ2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22/DZ22.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
       <recent name="C:\Users\admin\PycharmProjects\Obychenie\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DZ22">
+  <component name="RunManager" selected="Python.22_1DZ">
     <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,6 +82,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="D:/+-Юра-+/программирование/22 klass 22/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="22_1DZ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\admin\PycharmProjects\Obychenie\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22/22_1DZ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,34 +174,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testFiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\admin\PycharmProjects\Obychenie\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hakaton/послед" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hakaton/послед/testFiles.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.22_1DZ" />
         <item itemvalue="Python.DZ22" />
         <item itemvalue="Python.dz (1)" />
         <item itemvalue="Python.1 (1)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.testFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654192562983</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="07,06">
+      <created>1654576392564</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654576392564</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +316,8 @@
     <MESSAGE value="посл" />
     <MESSAGE value="21lesson" />
     <MESSAGE value="21_1_lesson_DZ" />
-    <option name="LAST_COMMIT_MESSAGE" value="21_1_lesson_DZ" />
+    <MESSAGE value="07,06" />
+    <option name="LAST_COMMIT_MESSAGE" value="07,06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
