@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="22 dz">
-      <change afterPath="$PROJECT_DIR$/23/23les.py" afterDir="false" />
+    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="les 08/06">
+      <change afterPath="$PROJECT_DIR$/23/23DZ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/19gitDZ2" beforeDir="false" afterPath="$PROJECT_DIR$/19gitDZ2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654619636772</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="les 08/06">
+      <created>1654714326084</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654714326084</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +333,8 @@
     <MESSAGE value="21_1_lesson_DZ" />
     <MESSAGE value="07,06" />
     <MESSAGE value="22 dz" />
-    <option name="LAST_COMMIT_MESSAGE" value="22 dz" />
+    <MESSAGE value="les 08/06" />
+    <option name="LAST_COMMIT_MESSAGE" value="les 08/06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
