@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="dz 0906">
-      <change afterPath="$PROJECT_DIR$/24_ examen_3/24_zadach_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_ examen_3/24_zadach_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_ examen_3/24_zadach_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_ examen_3/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="exam 12/06 - 19.20">
       <change beforePath="$PROJECT_DIR$/19gitDZ2" beforeDir="false" afterPath="$PROJECT_DIR$/19gitDZ2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654801126054</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="exam 12/06 - 19.20">
+      <created>1655050839963</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655050839963</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +347,8 @@
     <MESSAGE value="22 dz" />
     <MESSAGE value="les 08/06" />
     <MESSAGE value="dz 0906" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz 0906" />
+    <MESSAGE value="exam 12/06 - 19.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam 12/06 - 19.20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
