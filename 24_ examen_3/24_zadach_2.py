@@ -4,13 +4,13 @@
 # одинаково читающееся в обоих направлениях.
 
 def paldrom():
-
+    slovo = input('Введите слово: ')
     if slovo == slovo[::-1]:
         print(f'Слово {slovo} является палиндромом')
     else:
         print(f'Слово {slovo} не является палиндромом')
 
 
-slovo = input('Введите слово: ')
+
 
 paldrom()

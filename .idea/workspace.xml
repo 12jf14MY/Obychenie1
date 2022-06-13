@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="exam 12/06 - 19.20">
+    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="exam 12/06 - 19.33">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/19gitDZ2" beforeDir="false" afterPath="$PROJECT_DIR$/19gitDZ2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_ examen_3/24_zadach_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_ examen_3/24_zadach_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_ examen_3/24_zadach_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_ examen_3/24_zadach_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
       <recent name="C:\Users\admin\PycharmProjects\Obychenie\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.24_zadach_2">
+  <component name="RunManager" selected="Python.24_zadach_3">
     <configuration name="24_zadach_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,19 +134,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="24_zadach_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\admin\PycharmProjects\Obychenie\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="D:/+-Юра-+/программирование/23 klass 23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_ examen_3" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="D:/+-Юра-+/программирование/23 klass 23/str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_ examen_3/24_zadach_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.24_zadach_3" />
         <item itemvalue="Python.24_zadach_2" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.24_zadach_1 (1)" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.24_zadach_1" />
-        <item itemvalue="Python.str" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655051034319</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="exam 12/06 - 19.20">
+      <created>1655051458286</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1655051458287</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +365,8 @@
     <MESSAGE value="les 08/06" />
     <MESSAGE value="dz 0906" />
     <MESSAGE value="exam 12/06 - 19.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam 12/06 - 19.20" />
+    <MESSAGE value="exam 12/06 - 19.33" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam 12/06 - 19.33" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
