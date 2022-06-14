@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="exam 12/06 - 19.33">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b4fd72f-e70c-4009-bbe3-d82783c2588d" name="Changes" comment="exam 13/06 - 21.03">
       <change beforePath="$PROJECT_DIR$/19gitDZ2" beforeDir="false" afterPath="$PROJECT_DIR$/19gitDZ2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24_ examen_3/24_zadach_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_ examen_3/24_zadach_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/24_ examen_3/24_zadach_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_ examen_3/24_zadach_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -314,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655051458287</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="exam 13/06 - 21.03">
+      <created>1655143393251</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1655143393252</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,7 +371,8 @@
     <MESSAGE value="dz 0906" />
     <MESSAGE value="exam 12/06 - 19.20" />
     <MESSAGE value="exam 12/06 - 19.33" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam 12/06 - 19.33" />
+    <MESSAGE value="exam 13/06 - 21.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam 13/06 - 21.03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
